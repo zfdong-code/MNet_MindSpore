@@ -18,7 +18,7 @@ For more information about MNet, please read the following paper （Accepted by 
 
 
 ## 
-Implementations of MNet with MindSpore (https://www.mindspore.cn/). 
+This is the implementations of MNet with MindSpore (https://www.mindspore.cn/). 
 
 
 # Dataset
